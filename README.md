@@ -17,8 +17,7 @@ GitHub Pages, Cloudflare Pages, Netlify or Firebase Hosting.
 - **Support email** — `pixelwinlabs@gmail.com` (Aftab, 2026-10-24) on every page (search for it). It must be a mailbox that is read.
 - **Country** — "India" in `privacy.html` section 1.
 - **Audience** — 18+ (Aftab, 2026-10-24): `privacy.html` "Children" and `terms.html` section 2 say so. The Play Console target audience must be 18+ too.
-- **Store button** — in `index.html` the button reads "Coming soon to Google Play"; the comment above it holds the
-  line to use once the app is published.
+- **Store button** — in `index.html` the button links to the app on Google Play (since 2026-11-18).
 - **Screenshots** — `index.html` has a screenshots section inside a comment; add `images/shot-1.png` … `shot-5.png`
   and remove the comment markers.
 - **`app-ads.txt`** — add the one line AdMob gives you as a file named `app-ads.txt` in this folder.
